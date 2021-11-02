@@ -52,6 +52,33 @@ A friend shared this to me from a facebook page. I feel that the right place for
     <a href=https://pub.dev/packages/transformer_page_view>Transformer Page View</a>
   </li>
   
+  <li>
+    <a href=https://pub.dev/packages/table_calendar>Table Calendar</a>
+  </li>
+  
+  <li>
+    <a href=https://pub.dev/packages/page_transition>Page Transform</a>
+  </li>
+  
+  <li>
+    <a href=https://pub.dev/packages/flutter_swiper>Flutter Swiper</a>
+  </li>
+  
+  <li>
+    <a href=https://pub.dev/packages/dotted_border>Dotted Border</a>
+  </li>
+  
+  <li>
+    <a href=https://pub.dev/packages/flutter_rating_bar>Flutter Rating Bar</a>
+  </li>
+  
+  
+  <h4>BOTTOM NAV BAR</h4>
+  
+  <li>
+    <a href=https://pub.dev/packages/salomon_bottom_bar>Salomon Bottom Bar</a>
+  </li>
+  
 </ol>
 
 Credit to <a href="https://github.com/BenjaminMahmic" target="_blank">Benjamin Mahmić</a>
