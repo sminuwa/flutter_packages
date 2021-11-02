@@ -12,6 +12,10 @@ A friend shared this to me from a facebook page. I feel that the right place for
     <a href="https://pub.dev/packages/scrollable_panel"> Scrollable Panel</a>
   </li>
   
+  <li>
+    <a href=https://pub.dev/packages/stretchy_header>Stretchy Header</a>
+  </li>
+  
 </ol>
 
 Credit to <a href="https://github.com/BenjaminMahmic" target="_blank">Benjamin Mahmić</a>
