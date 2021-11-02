@@ -96,7 +96,7 @@ interesting packages for your flutter projects.
   </li>
 
   <li>
-   <a href="https://pub.dev/packages/curved_drawer_fork"><Curved Drawer Fork</a>
+   <a href=https://pub.dev/packages/curved_drawer_fork><Curved Drawer Fork</a>
   </li>
 
 </ol>
