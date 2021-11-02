@@ -71,14 +71,28 @@ A friend shared this to me from a facebook page. I feel that the right place for
   <li>
     <a href=https://pub.dev/packages/flutter_rating_bar>Flutter Rating Bar</a>
   </li>
+<ol>
   
+<h4>BOTTOM NAV BAR</h4>
   
-  <h4>BOTTOM NAV BAR</h4>
+<ol>
+  <li>
+   <a href=https://pub.dev/packages/salomon_bottom_bar>Salomon Bottom Bar</a>
+  </li>
+   
+  <li>
+    <a href=https://pub.dev/packages/convex_bottom_bar>Convex Bottom Bar</a>
+  </li>
   
   <li>
-    <a href=https://pub.dev/packages/salomon_bottom_bar>Salomon Bottom Bar</a>
+    <a href=https://pub.dev/packages/water_drop_nav_bar>Water Drop Nav Bar</a>
+  </li>
+  
+  <li>
+    <a href=https://pub.dev/packages/jumping_bottom_nav_bar>Jumping Bottom Nav Bar</a>
   </li>
   
 </ol>
-
+  
+  
 Credit to <a href="https://github.com/BenjaminMahmic" target="_blank">Benjamin Mahmić</a>
