@@ -71,7 +71,7 @@ A friend shared this to me from a facebook page. I feel that the right place for
   <li>
     <a href=https://pub.dev/packages/flutter_rating_bar>Flutter Rating Bar</a>
   </li>
-<ol>
+</ol>
   
 <h4>BOTTOM NAV BAR</h4>
   
