@@ -116,27 +116,27 @@ interesting packages for your flutter projects.
 <h4>SERVICES</h4>
 <ol>
 
-    <li>
-        <a href=https://pub.dev/packages/translator>Translator</a>    
-    </li>
-    <li>
-        <a href=https://pub.dev/packages/audio_service>Audio Service</a>    
-    </li>
-    <li>
-        <a href=https://pub.dev/packages/device_calendar>Device Calendar</a>    
-    </li>
-    <li>
-        <a href=https://pub.dev/packages/image_cropper>Image Cropper</a>    
-    </li>
-    <li>
-        <a href=https://pub.dev/packages/file_picker>File Picker</a>    
-    </li>
-    <li>
-        <a href=https://pub.dev/packages/permission_handler>Permission Handler</a>    
-    </li>
-    <li>
-        <a href=https://pub.dev/packages/win32>Win32</a>    
-    </li>
+<li>
+    <a href=https://pub.dev/packages/translator>Translator</a>    
+</li>
+<li>
+    <a href=https://pub.dev/packages/audio_service>Audio Service</a>    
+</li>
+<li>
+    <a href=https://pub.dev/packages/device_calendar>Device Calendar</a>    
+</li>
+<li>
+    <a href=https://pub.dev/packages/image_cropper>Image Cropper</a>    
+</li>
+<li>
+    <a href=https://pub.dev/packages/file_picker>File Picker</a>    
+</li>
+<li>
+    <a href=https://pub.dev/packages/permission_handler>Permission Handler</a>    
+</li>
+<li>
+    <a href=https://pub.dev/packages/win32>Win32</a>    
+</li>
 </ol>
 
 
