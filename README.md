@@ -107,6 +107,8 @@ interesting packages for your flutter projects.
 <ol>
     <li>
         <a href="https://pub.dev/packages/drawer_swipe">Drawer Swipe</a>
+    </li>
+    <li>
         <a href="https://pub.dev/packages/slide_drawer">Slide Drawer</a>
     </li>
 </ol>
