@@ -140,5 +140,51 @@ interesting packages for your flutter projects.
 </ol>
 
 
+<h4>LOCAL STORAGE<h4>
+<ol>
+<li>
+  <a href=https://pub.dev/packages/shared_preferences>Shared Preferences</a>
+</li>
+<li>
+  <a href=https://pub.dev/packages/sqflite>SQFlite</a>
+</li>
+</ol>
+
+<h4>PROVIDER</h4>
+<ol>
+<li>
+  <a href=https://pub.dev/packages/provider>Provider</a>
+</li>
+</ol>
+
+<h4>OTHERS</h4>
+<ol>
+<li>
+  <a href=https://pub.dev/packages/flutter_colorpicker>Flutter Color Picker</a>
+</li>
+<li>
+  <a href=https://pub.dev/packages/animations>Animations</a>
+</li>
+<li>
+  <a href=https://pub.dev/packages/pull_to_refresh>Pull To Refresh</a>
+</li>
+<li>
+  <a href=https://pub.dev/packages/percent_indicator>Percent Indicator</a>
+</li>
+<li>
+  <a href=https://pub.dev/packages/auto_size_text>Auto Size Text</a>
+</li>
+<li>
+  <a href=https://pub.dev/packages/flutter_staggered_grid_view>Flutter Staggered Grid View</a>
+</li>
+<li>
+  <a href=https://pub.dev/packages/carousel_slider>Carousel Slider</a>
+</li>
+<li>
+  <a href=https://pub.dev/packages/crypto>Crypto</a>
+</li>
+</ol>
+
+
 Credits to <a href="https://github.com/BenjaminMahmic" target="_blank">Benjamin Mahmić</a>
 and <a href=https://github.com/devpsys>A. L. Zailani</a>
